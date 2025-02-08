@@ -17,4 +17,4 @@ _(More reports will be added as research progresses.)_
 ## About  
 This repository is maintained as a **personal research initiative** focused on cybersecurity threats, red teaming methodologies, and cyber intelligence analysis.  
 
-For inquiries or discussions, feel free to connect on **[LinkedIn](linkedin.com/in/galihsam).** 
+For inquiries or discussions, feel free to connect on **[LinkedIn](https://www.linkedin.com/in/galihsam).** 
